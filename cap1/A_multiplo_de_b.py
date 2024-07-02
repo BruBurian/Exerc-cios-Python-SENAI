@@ -9,4 +9,4 @@ b = int(input("insira um valor para ser o B: "))
 
 resultado = verifica_multiplo(a, b)
 
-print(resultado)
+print(resultado
