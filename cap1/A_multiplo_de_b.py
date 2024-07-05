@@ -8,5 +8,5 @@ a = int(input("insira um valor para ser o A: "))
 b = int(input("insira um valor para ser o B: "))
 
 resultado = verifica_multiplo(a, b)
-a
+
 print(resultado)
