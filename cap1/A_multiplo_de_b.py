@@ -5,7 +5,7 @@ def verifica_multiplo(a, b):
         print(f"{a} não é multiplo de {b}")
 
 a = int(input("insira um valor para ser o A: "))
-b = int(input("insira um valor para ser o B: "))
+b = int(input("insira um valor para ser o B: "))a
 
 resultado = verifica_multiplo(a, b)
 
