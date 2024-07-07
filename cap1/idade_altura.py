@@ -9,5 +9,5 @@ idade = int(input("Digite sua idade: "))
 altura = int(input("Digite sua altura: "))
 
 resultado = roler_coaster(idade, altura)
-print(resultado)
+print(resultado)y
     
