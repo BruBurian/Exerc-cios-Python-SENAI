@@ -2,7 +2,7 @@ notas = [100, 90, 95, 90, 80, 70, 0, 80, 90, 90, 0, 90, 100, 75, 20, 30, 50, 90]
 
 tamanho_conjunto = 3
 
-sublistas_notas = [notas[i:i + tamanho_conjunto] for i in range(0, len(notas), tamanho_conjunto)]a
+sublistas_notas = [notas[i:i + tamanho_conjunto] for i in range(0, len(notas), tamanho_conjunto)]
 
 total_alunos = len(sublistas_notas)
 
