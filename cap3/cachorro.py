@@ -6,5 +6,5 @@ class Dog:
         print(f"{self.name} : woof woof")
 
 my_dog = Dog('Bingo')
-a
+
 my_dog.bark()
