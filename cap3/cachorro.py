@@ -2,9 +2,9 @@ class Dog:
     def __init__(self, name):
         self.name = name
 
-    def bark(self):
+    def latir(self):
         print(f"{self.name} : woof woof")
 
 my_dog = Dog('Bingo')
 
-my_dog.bark()
+my_dog.latir()
