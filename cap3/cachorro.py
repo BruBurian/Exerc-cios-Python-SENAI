@@ -1,7 +1,7 @@
 class Dog:
     def __init__(self, name):
         self.name = name
-l
+
     def latir(self):
         print(f"{self.name} : woof woof")
 
