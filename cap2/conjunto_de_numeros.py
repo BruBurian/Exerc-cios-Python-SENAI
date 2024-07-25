@@ -1,7 +1,7 @@
 minha_lista = [(1, 2), (4, 5), (4, 2), (3, 1), (9, 4)]
 
 a, b = map(int, input("Digite dois números inteiros: ").split())
-
+l
 if (a, b) in minha_lista:
     posicao = minha_lista.index((a, b))
     print(f'Há ({a},{b}) na posição {posicao}.')
