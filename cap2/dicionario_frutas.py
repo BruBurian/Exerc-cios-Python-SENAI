@@ -4,7 +4,7 @@ frutas_dic = {
     "banana" : 5000,
     "laranja" : 4000
 }
-aaa
+aaaa
 chaves_list = list(frutas_dic.keys())
 print("Chaves do dicionário: ", chaves_list)
 
