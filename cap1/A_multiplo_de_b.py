@@ -1,4 +1,4 @@
-def verifica_multiplo(a, b):
+def verifica_multiplo(a, b):a
     if a % b == 0:
         print(f"{a} é multiplo de {b}")
     else:
