@@ -1,5 +1,5 @@
 lista = [(), (1,), [], 'abc', (), (), (1,), ('a',), ('a', 'b'), ((),), '']
-
+zzzz
 lista_sem_vazios = []
 
 for elemento in lista:
