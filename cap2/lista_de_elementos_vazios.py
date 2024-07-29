@@ -1,7 +1,7 @@
 lista = [(), (1,), [], 'abc', (), (), (1,), ('a',), ('a', 'b'), ((),), '']
 
 lista_sem_vazios = []
-
+a
 for elemento in lista:
     if isinstance(elemento, tuple) and len(elemento) == 0:
         lista_sem_vazios.append(elemento)
