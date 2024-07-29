@@ -6,5 +6,5 @@ class Dog:
         print(f"{self.name} : woof woof")
 
 my_dog = Dog('Bingo')
-
+q
 my_dog.latir()
