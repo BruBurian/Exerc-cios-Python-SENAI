@@ -3,7 +3,7 @@ def potencia_recursiva(x, n):
         return 1
     else:
         return x * potencia_recursiva(x, n - 1)
-a
+
 x = int(input("Digite o valor de x: "))
 n = int(input("Digite o valor de n: "))
 
