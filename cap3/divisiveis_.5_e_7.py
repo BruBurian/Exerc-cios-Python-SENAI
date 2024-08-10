@@ -5,7 +5,7 @@ def func1(a):
             if i % 5 == 0:
                 result1.append(i)
         return result1
-a
+
     def func3(a):
         result2 = []
         for i in a:
