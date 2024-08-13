@@ -3,7 +3,7 @@ def fatorial(n):
         return 1
     else:
         return n * fatorial(n - 1)
-
+aaaaaa
 def euler(n):
     if n == 0:
         return 1
