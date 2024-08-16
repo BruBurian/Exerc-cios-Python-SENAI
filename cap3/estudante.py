@@ -5,7 +5,7 @@ class Estudante:
         self.eng_quiz = 0
         self.math_quiz = 0
         self.science_quiz = 0
-aa
+
     def __str__(self):
         return (f"Nome : {self.name}, ID : {self.student_id}\n"
                 f"Nota no quiz em inglês: {self.eng_quiz}, Nota no quiz em matemática: {self.math_quiz}\n"
