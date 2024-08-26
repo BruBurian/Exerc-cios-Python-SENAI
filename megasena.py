@@ -1,6 +1,6 @@
 from random import randint
 import sys
-aa
+a
 dezenas = 6
 
 def existeNumero(numeros, n):
